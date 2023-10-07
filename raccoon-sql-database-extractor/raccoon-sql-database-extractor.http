@@ -1,6 +1,0 @@
-@raccoon_sql_database_extractor_HostAddress = http://localhost:5022
-
-GET {{raccoon_sql_database_extractor_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
